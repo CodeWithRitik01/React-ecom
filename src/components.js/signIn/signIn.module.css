@@ -1,0 +1,35 @@
+.signInTop{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 9%;
+}
+
+.signInTop input {
+    height: 40px;
+    width: 300px;
+    border:2px solid #7064e5;
+    color:#7064e5;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.signInTop button{
+    height: 40px;
+    width: 300px;
+    border:2px solid #7064e5;
+    background-color: #7064e5;
+    color: whitesmoke;
+    font-size: 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.signInTop a{
+    text-decoration: none;
+    
+}
+
+.signInTop h3{
+    color:rgb(79, 71, 99);
+}

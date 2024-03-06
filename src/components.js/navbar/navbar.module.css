@@ -1,0 +1,111 @@
+.outNav{
+    display: flex;
+    align-items: center;
+    box-shadow: 5px 10px 10px 2px rgb(170, 170, 170);
+    width: 99vw;
+    height: 11vh;
+    margin-left: 10px;
+}
+
+.outNav h1{
+    font-weight: 200;
+    color: rgb(120, 54, 120);
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.outNav a{
+    text-decoration: none;
+}
+
+.home{
+    display: flex;
+    position: absolute;
+    right: 14%;
+    top:2.4%;
+}
+
+.home img{
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
+
+.home h2{
+    color:rgb(71, 139, 242);
+}
+
+.signIn{
+    display: flex;
+    position: absolute;
+    right: 5%;
+    top:2.4%;
+}
+
+.signIn img{
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
+
+.signIn h2{
+    color:rgb(71, 139, 242);
+}
+
+
+.signOut{
+    display: flex;
+    position: absolute;
+    right: 20%;
+    top:2.4%;
+}
+
+.signOut img{
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
+
+.signOut h2{
+    color:rgb(71, 139, 242);
+}
+
+
+.cart{
+    display: flex;
+    position: absolute;
+    right: 23%;
+    top:2.4%;
+}
+
+.cart img{
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
+
+.cart h2{
+    color:rgb(71, 139, 242);
+}
+
+
+.order{
+    display: flex;
+    position: absolute;
+    right: 30%;
+    top:2.4%;
+}
+
+.order img{
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+}
+
+.order h2{
+    color:rgb(71, 139, 242);
+}
+
+.activeLink h2{
+  color: red;
+}

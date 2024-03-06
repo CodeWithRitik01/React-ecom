@@ -1,0 +1,103 @@
+.outOrder{
+margin-top: 5%;
+}
+
+.outOrder h1{
+   text-align: center;
+}
+.allOrders{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.table{
+    border: none;
+    margin: 0 auto 4rem;
+    position: relative;
+    width: 50%;
+    background-color: #d9d9d936;
+}
+
+div {
+    display: block;
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.table thead tr th {
+    border: none;
+    padding: 10px;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+
+tbody th{
+    margin-bottom: 20px;
+
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.total{
+    border-top: 2px solid #fff;
+    bottom: -2.5rem;
+    margin-top: 10px;
+    padding-left: 84.85%;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    width: 100%;
+}
+
+
+
+table > tr {
+    vertical-align: middle;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+body {font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+height: 100vh;
+margin: 0;
+overflow-x: hidden;
+padding: 0;}
+
+
+.tot{
+    font-size: 30px;
+
+}
