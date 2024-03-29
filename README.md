@@ -1,3 +1,5 @@
+
+
 # Busy Buy E-commerce
 This project is a simple habit tracker application built using React and Redux. It allows users to track multiple habits and their status for each day. Users can mark habits as done, not done, or leave them as none for each day. The application provides views to display all current habits and a detailed view for each habit showing the status of the habit for the 7 days.
 
